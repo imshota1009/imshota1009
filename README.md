@@ -7,8 +7,6 @@
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-Java-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Html-339933?logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imshota1009&show_icons=true&theme=radical)
