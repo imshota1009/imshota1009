@@ -14,7 +14,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌱 Learning 
-![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
+![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker,javascript,c#)
 
 ![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
 
