@@ -20,3 +20,4 @@
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
+![]([https://github.com/imshota1009/Prototype-of-Freiren-the-Funeral-Japanese](https://imshota1009.github.io/Prototype-of-Freiren-the-Funeral-Japanese/](https://imshota1009.github.io/Prototype-of-Freiren-the-Funeral-Japanese/))
