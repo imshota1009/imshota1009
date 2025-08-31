@@ -4,7 +4,7 @@
 - 💻 Full Stack Developer
 - 🌱 Learning React and Node.js
 - 👯 Looking to collaborate on web projects
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: shota.yamawaki@gmail.com
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
