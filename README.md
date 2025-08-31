@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imshota1009&show_icons=true&theme=radical)
 
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,docker,python,javascript,css,c#)
