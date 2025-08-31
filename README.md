@@ -20,4 +20,4 @@
 
 ### My Contribution Flower 🌷
 
-![My Contribution Flower](https://raw.githubusercontent.com/imshota1009/my-contribution-flower/main/flower.svg)
+![](https://raw.githubusercontent.com/imshota1009/my-contribution-flower/main/flower.svg)
