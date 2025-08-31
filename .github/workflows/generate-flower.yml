@@ -1,0 +1,60 @@
+# ワークフローの名前（GitHubのActionsタブに表示されます）
+name: Generate Contribution Flower
+
+# ワークフローを実行する「きっかけ（トリガー）」を指定
+on:
+  # 1. スケジュール実行
+  schedule:
+    # 毎日午前0時 (UTC) に実行します (日本時間では午前9時)
+    - cron: '0 0 * * *'
+  
+  # 2. 手動実行
+  workflow_dispatch:
+    # GitHubのActionsタブから手動で実行できるようになります
+
+# 実行する「作業（ジョブ）」を定義
+jobs:
+  # "build" という名前のジョブを1つ定義します (名前は自由)
+  build:
+    # この作業を "ubuntu-latest" という最新のLinux環境で実行します
+    runs-on: ubuntu-latest
+
+    # 作業の具体的な「手順（ステップ）」を上から順番に定義
+    steps:
+      # ステップ1: リポジトリのコードをチェックアウトする
+      # これをしないと、仮想環境から自分のファイルにアクセスできません
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # ステップ2: Node.js環境をセットアップする
+      # index.jsを実行するために必要です
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Node.jsのバージョンを指定
+
+      # ステップ3: 必要なライブラリをインストールする
+      # package.jsonに書かれているライブラリ(@octokit/graphql)をインストールします
+      - name: Install dependencies
+        run: npm install
+
+      # ステップ4: 花のSVG画像を生成するメインプログラムを実行する
+      - name: Generate the flower SVG
+        run: node index.js
+        env:
+          # プログラム内で使う環境変数を設定
+          # 1. GH_TOKEN: リポジトリのSecretsに登録したPATを渡します
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 2. GH_USERNAME: このリポジトリの所有者名(あなたのユーザー名)を渡します
+          GH_USERNAME: ${{ github.repository_owner }}
+
+      # ステップ5: 生成された画像に変更があれば、自動でコミット＆プッシュする
+      - name: Commit and push if changed
+        # 便利なActionを使って、Git操作を自動化します
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          # コミットメッセージを指定
+          commit_message: '🌸 Update contribution flower'
+          # コミット対象のファイルを指定 (flower.svgのみ)
+          file_pattern: 'flower.svg'
+
