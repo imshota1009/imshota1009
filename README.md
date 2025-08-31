@@ -1,2 +1,2 @@
-![](https://raw.githubusercontent.com/imshota1009/Prototype-of-Freiren-the-Funeral-Japanese/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/imshota1009/imshota1009/tree/main/.github/output/github-contribution-grid-snake.svg)
 
