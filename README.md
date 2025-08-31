@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 Learning ...
 - 👯 Looking to collaborate on web projects
 - 📫 How to reach me: shota.yamawaki@gmail.com
 
@@ -14,6 +13,7 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
 
 ![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
