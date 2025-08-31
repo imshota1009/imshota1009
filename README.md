@@ -16,7 +16,6 @@
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,docker,python,javascript,css,c#)
 
-![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
-
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
+![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
