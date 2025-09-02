@@ -18,7 +18,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imshota1009&show_icons=true&theme=radical)
 
 ## 🌱 Learning 
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,docker,python,javascript,css,c#)
+![Tech Stack](https://skillicons.dev/icons?i=c,java,python,javascript,html,css)
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
