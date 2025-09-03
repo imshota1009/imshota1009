@@ -1,5 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
+![Demo](./name.gif)
+
+
 ## 🚀 About Me
 - 💻 Full Stack Developer
 - 👯 Looking to collaborate on web projects
