@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Demo](./name.gif)
+![](./name.gif)
 
 
 ## 🚀 About Me
