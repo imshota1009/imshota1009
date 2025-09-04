@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![](./assets/fantasy_name.gif)
+![](./assets/catmoon_name.gif)
 
 
 ## 🚀 About Me
