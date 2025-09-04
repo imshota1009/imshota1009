@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Demo](./assets/name.gif)
+![Demo](./assets/fantasy_name.gif)
 
 
 ## 🚀 About Me
