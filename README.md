@@ -10,16 +10,7 @@
 
 ## 🌱 Projects I'm Working On
 
-- 🃏 **Blackjack** – A simple browser card game  
-- 🐱 **Random Cat Image Generator** – Display a random cat picture with one click  
-- 💪 **Push-up Counter** – Counts push-ups automatically using the camera  
-- ✨ **Frieren Online - Journey Beyond Time** – A browser RPG prototype  
-- 📝 **To Do List** – Simple CLI-based task manager  
-- ⛏️ **Minecraft Skin Finder** – Get skins by entering a player name  
-- 🌸 **Contribution Flower** – Grow flowers with your GitHub contributions  
-- 🦖 **Dino RPG** – Simple and addictive endless runner
-- 📜 **Frieren - Grimoire Hunt** – Fan-made game to collect magic books  
-
+- Look at the repositories
 
 ## 🛠️ Tech Stack
 
