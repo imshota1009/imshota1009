@@ -25,7 +25,7 @@
 
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={imshota1009}&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={imshota1009}&theme=onedark)]
 
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=c,java,python,javascript,html,css)
