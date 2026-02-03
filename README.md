@@ -31,4 +31,26 @@
 
 ![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
 
+<!-- 
+    SYSTEM: NEURAL LINK ESTABLISHED
+    TARGET: IMSHOTA1009
+    MODE: CYBERPUNK
+-->
 
+<div align="center">
+    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="200" style="object-fit: cover;">
+    <h1>SYSTEM ONLINE: <span style="color: #00ff00;">imshota1009</span></h1>
+    <p>
+        <a href="https://github.com/imshota1009">
+            <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=for-the-badge&logo=probot&logoColor=black&labelColor=black">
+        </a>
+        <a href="mailto:shota.yamawaki@gmail.com">
+            <img src="https://img.shields.io/badge/Gw-CONNECT-00ffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black">
+        </a>
+    </p>
+</div>
+
+```bash
+> ACCESSING DATABASE...
+> DECRYPTING USER PROFILE...
+> LOADED.
