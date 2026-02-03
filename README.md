@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
 
-## 🚧 Work in Progress: My Empire
+## 🚧 Work in Progress: My Company
 **Sneak peek of my future headquarters!**
 ![](./assets/catmoon_company.gif)
 
