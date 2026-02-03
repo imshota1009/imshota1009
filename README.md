@@ -32,25 +32,26 @@
 ![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
 
 <!-- 
-    SYSTEM: NEURAL LINK ESTABLISHED
+    SYSTEM: GHOST IN THE SHELL MODE
     TARGET: IMSHOTA1009
-    MODE: CYBERPUNK
+    STATUS: ANIMATION_ACTIVE
 -->
 
 <div align="center">
-    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="200" style="object-fit: cover;">
-    <h1>SYSTEM ONLINE: <span style="color: #00ff00;">imshota1009</span></h1>
+    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="200" style="object-fit: cover; opacity: 0.8;">
+    
+    <!-- Typing Animation: "Stand Alone Complex" style -->
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=system.connect(user%3D%22imshota1009%22);Accessing+Target+Data...;Stand+Alone+Complex...;Welcome+to+the+Net." alt="Typing SVG" />
+    </a>
+
     <p>
         <a href="https://github.com/imshota1009">
             <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=for-the-badge&logo=probot&logoColor=black&labelColor=black">
-        </a>
-        <a href="mailto:shota.yamawaki@gmail.com">
-            <img src="https://img.shields.io/badge/Gw-CONNECT-00ffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black">
         </a>
     </p>
 </div>
 
 ```bash
-> ACCESSING DATABASE...
-> DECRYPTING USER PROFILE...
-> LOADED.
+> INITIALIZING GHOST...
+> SYNCING... [////////////////////] 100%
