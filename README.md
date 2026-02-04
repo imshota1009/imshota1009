@@ -12,7 +12,7 @@
 - **EcoNavi App** (Jan 2026): Selected as a finalist in the Nihon University Business Contest.
 
 ## 💼 Marketplace / Sales
-- **BuiltByBit Profile**: [catmoon](https://builtbybit.com/creators/catmoon.647372/)
+- **BuiltByBit Profile**: [click](https://builtbybit.com/creators/catmoon.647372/)
     
 ## 🌱 Projects I'm Working On
 
