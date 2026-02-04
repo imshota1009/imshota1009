@@ -15,8 +15,10 @@
 - **BuiltByBit Profile**: [click](https://builtbybit.com/creators/catmoon.647372/)
     
 ## 🌱 Projects I'm Working On
-
 - Look at the repositories
+
+## 📅 Future Plans
+- **Bartender Game (Android)**: Release on Google Play (Planned: Feb 2026).
 
 ## 🛠️ Tech Stack
 
