@@ -18,7 +18,7 @@
 - Look at the repositories
 
 ## 📅 Future Plans
-- **Bartender Game (Android)**: Release on Google Play (Planned: Feb 2026).
+- **Bartender (Android)**: Release on Google Play.
 
 ## 🛠️ Tech Stack
 
