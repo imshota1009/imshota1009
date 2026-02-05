@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![](./assets/catmoon_name.gif)
+![](./assets/catmoon_title.jpg)
 
 
 ## 🚀 About Me
