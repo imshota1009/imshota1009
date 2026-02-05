@@ -51,10 +51,6 @@
 
 <div align="center">
 
-### 💡 "Let's connect and forge the future together! 🚀"
-
-**⭐ Don't forget to star repositories you find interesting!**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
 </div>
