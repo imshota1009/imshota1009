@@ -39,7 +39,7 @@
 ![](./assets/catmoon_company.gif)
 
 ## 🌱 Learning 
-![Tech Stack](https://skillicons.dev/icons?i=c,java,python,javascript,html,css)
+![Tech Stack](https://skillicons.dev/icons?i=c,java,python,javascript,html,css,typescript)
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
