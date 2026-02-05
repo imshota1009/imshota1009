@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-　　　　　　　　　　<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D79FF&center=true&vCenter=true&width=600&lines=Welcome+to+CatMoon+Bar;Mixing+Code+%26+Cocktails;Cyberpunk+Night+Mixologist;Purrrfecting+TypeScript+Potions;AI+on+the+Rocks;Debugging+Under+the+Neon+Moon;Serving+Logic+one+glass+at+a+time;Shaking+up+New+Technologies;Wait...+Is+that+a+cat+behind+the+counter%3F;One+more+build+before+closing+time..." alt="Typing SVG" />
+　　　　　　<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D79FF&center=true&vCenter=true&width=600&lines=Welcome+to+CatMoon+Bar;Mixing+Code+%26+Cocktails;Cyberpunk+Night+Mixologist;Purrrfecting+TypeScript+Potions;AI+on+the+Rocks;Debugging+Under+the+Neon+Moon;Serving+Logic+one+glass+at+a+time;Shaking+up+New+Technologies;Wait...+Is+that+a+cat+behind+the+counter%3F;One+more+build+before+closing+time..." alt="Typing SVG" />
 
 ![](./assets/catmoon_title.jpg)
 
