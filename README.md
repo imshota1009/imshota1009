@@ -46,5 +46,5 @@
 ![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imshota1009&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
