@@ -48,3 +48,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imshota1009&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
+
+<div align="center">
+
+### 💡 "Let's connect and forge the future together! 🚀"
+
+**⭐ Don't forget to star repositories you find interesting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+</div>
