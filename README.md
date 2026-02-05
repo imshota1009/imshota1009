@@ -53,7 +53,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/imshota1009/imshota1009/main/profile-summary-card-output/solarized_dark/3-stats.svg" alt="GitHub Stats" />
+      <img src="https://raw.githubusercontent.com/imshota1009/imshota1009/profile-summary-card-output/solarized_dark/3-stats.svg" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
