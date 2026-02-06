@@ -14,7 +14,13 @@
 - **EcoNavi App** (Jan 2026): Selected as a finalist in the Nihon University Business Contest.
 
 ## 💼 Marketplace / Sales
-- **BuiltByBit Profile**: [click](https://builtbybit.com/creators/catmoon.647372/)
+Check out my latest maps, builds, and resources on these platforms:
+
+* **BuiltByBit**: [Visit My Store Profile](https://builtbybit.com/creators/catmoon.647372/)
+    * 🏰 **Exclusive Builds:** Spawns, Hubs, and custom Maps.
+    * ⚙️ **Technical Resources:** Plugins, configurations, and assets.
+* **coconala**: [Service Catalog (Japan)](https://coconala.com/users/2619693)
+    * Custom builds and development commissions for the Japanese community.
     
 ## 🌱 Projects I'm Working On
 - Look at the repositories
