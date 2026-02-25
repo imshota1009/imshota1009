@@ -25,7 +25,7 @@ Check out my latest maps, builds, and resources on these platforms:
 
 ## 📅 Future Plans
 - Android: Release on Google Play.
-- IOS: Release on Apple Store.
+- iOS: Release on App Store.
 
 ## 🛠️ Tech Stack
 
