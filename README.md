@@ -24,7 +24,8 @@ Check out my latest maps, builds, and resources on these platforms:
 - Look at the repositories
 
 ## 📅 Future Plans
-- **Bartender (Android)**: Release on Google Play.
+- Android: Release on Google Play.
+- IOS: Release on Apple Store.
 
 ## 🛠️ Tech Stack
 
