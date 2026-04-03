@@ -11,6 +11,7 @@
 - 📫 How to reach me: shota.yamawaki@gmail.com
 
 ## 🏆 Achievements
+- **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote公式サイト](https://tavinote.web.app/)
 - **EcoNavi App** (Jan 2026): Selected as a finalist in the Nihon University Business Contest.
 
 ## 💼 Marketplace / Sales
@@ -24,7 +25,7 @@ Check out my latest maps, builds, and resources on these platforms:
 - Look at the repositories
 
 ## 📅 Future Plans
-- Android: Release on Google Play.
+- Android: ✅ Released on Google Play. [[公式サイト](https://tavinote.web.app/)]
 - iOS: Release on App Store.
 
 ## 🛠️ Tech Stack
