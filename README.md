@@ -21,7 +21,7 @@ Check out my latest maps, builds, and resources on these platforms:
 * **BuiltByBit**: [Visit My Store Profile](https://builtbybit.com/creators/catmoon.647372/)
     * 🏰 **Exclusive Builds:** Spawns, Hubs, and custom Maps.
     * ⚙️ **Technical Resources:** Plugins, configurations, and assets.
-    * 💰 Sales Milestone: Reached $100 in total sales 🎉
+    ☑ 💰 Sales Milestone: Reached $100 in total sales 🎉
 ## 🌱 Projects I'm Working On
 - Look at the repositories
 
