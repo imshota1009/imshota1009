@@ -11,7 +11,7 @@
 - 📫 How to reach me: shota.yamawaki@gmail.com
 
 ## 🏆 Achievements
-- **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote公式サイト](https://tavinote.web.app/)
+- **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote](https://tavinote.web.app/)
 - **EcoNavi App** (Jan 2026): Selected as a finalist in the Nihon University Business Contest.
 - **ねこつきの旅日記 (YouTube)** (2023): Reached 1,000 subscribers 🎉 [YouTube Channel](https://www.youtube.com/@Chill_CatMoon)
   
