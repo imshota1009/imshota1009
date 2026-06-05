@@ -9,6 +9,7 @@
 - 💻 Full Stack Developer
 - 👯 Looking to collaborate on web projects
 - 📫 How to reach me: shota.yamawaki@gmail.com
+- 🔗 Portfolio: [nekodev-portfolio.web.app](https://nekodev-portfolio.web.app/)
 
 ## 🏆 Achievements
 - **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote Official Website](https://tavinote.web.app/)
