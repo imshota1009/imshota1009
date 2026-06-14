@@ -27,7 +27,7 @@ Check out my latest maps, builds, and resources on these platforms:
 - Look at the repositories
 
 ## 📅 Future Plans
-- Android: ✅ Released on Google Play. [[Official Website](https://tavinote.web.app/)]
+- Android: ✅ Released on Google Play.
 - iOS: Release on App Store.
 
 ## 🛠️ Tech Stack
