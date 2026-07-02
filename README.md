@@ -42,10 +42,6 @@ Check out my latest maps, builds, and resources on these platforms:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
-## 🚧 Work in Progress: My Company
-**Sneak peek of my future headquarters!**
-![](./assets/catmoon_company.gif)
-
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
 
