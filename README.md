@@ -27,10 +27,6 @@ Check out my latest maps, builds, and resources on these platforms:
 ## 🌱 Projects I'm Working On
 - Look at the repositories
 
-## 📅 Future Plans
-- Android: ✅ Released on Google Play. [[Official Website](https://tavinote.web.app/)]
-- iOS: Release on App Store.
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -54,10 +50,6 @@ Check out my latest maps, builds, and resources on these platforms:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
-
-## 🚧 Work in Progress: My Company
-**Sneak peek of my future headquarters!**
-![](./assets/catmoon_company.gif)
 
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
