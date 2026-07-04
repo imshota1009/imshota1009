@@ -55,13 +55,12 @@ Check out my latest maps, builds, and resources on these platforms:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
-
 ## 🚧 Work in Progress: My Company
 **Sneak peek of my future headquarters!**
 ![](./assets/catmoon_company.gif)
 
 ## 🌱 Learning 
-![Tech Stack](https://skillicons.dev/icons?i=c,java,python,javascript,html,css)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
