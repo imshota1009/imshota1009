@@ -9,7 +9,8 @@
 - 💻 Full Stack Developer
 - 👯 Looking to collaborate on web projects
 - 📫 How to reach me: shota.yamawaki@gmail.com
-- 🔗 Portfolio: [nekodev-portfolio.web.app](https://nekodev-portfolio.web.app/)
+- 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
+- 🔗 Portfolio (All Works): [nekodev-portfolio-site.web.app](https://nekodev-portfolio-site.web.app/)
 
 ## 🏆 Achievements
 - **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote Official Website](https://tavinote.web.app/)
@@ -42,6 +43,18 @@ Check out my latest maps, builds, and resources on these platforms:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
+
+### 💻 Development & Design Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-11477F?style=for-the-badge&logo=xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
+
 
 ## 🚧 Work in Progress: My Company
 **Sneak peek of my future headquarters!**
