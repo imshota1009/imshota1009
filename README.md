@@ -8,6 +8,7 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer
 - 👯 Looking to collaborate on web projects
+- 🧠 Deeply interested in Machine Learning, focusing on neural networks and Dynamic Difficulty Adjustment (DDA) for games
 - 📫 How to reach me: shota.yamawaki@gmail.com
 - 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
 - 🔗 Portfolio (All Works): [nekodev-portfolio-site.web.app](https://nekodev-portfolio-site.web.app/)
@@ -35,7 +36,8 @@ Check out my latest maps, builds, and resources on these platforms:
     * ⚙️ **Technical Resources:** Plugins, configurations, and assets.
     * 💰 Sales Milestone: Reached $100 in total sales 🎉
 ## 🌱 Projects I'm Working On
-- Look at the repositories
+- 🎮 **Dynamic Difficulty Adjustment (DDA)**: Implementing neural networks to adapt game difficulty dynamically based on player behavior.
+- And other repositories listed below!
 
 ## 🛠️ Tech Stack
 
