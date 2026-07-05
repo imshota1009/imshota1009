@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer
 - 👯 Looking to collaborate on web projects
-- 🧠 Deeply interested in Machine Learning, focusing on neural networks and Dynamic Difficulty Adjustment (DDA) for games
+- 🧠 Active in Machine Learning & neural networks
 - 📫 How to reach me: shota.yamawaki@gmail.com
 - 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
 - 🔗 Portfolio (All Works): [nekodev-portfolio-site.web.app](https://nekodev-portfolio-site.web.app/)
@@ -36,7 +36,7 @@ Check out my latest maps, builds, and resources on these platforms:
     * ⚙️ **Technical Resources:** Plugins, configurations, and assets.
     * 💰 Sales Milestone: Reached $100 in total sales 🎉
 ## 🌱 Projects I'm Working On
-- 🎮 **Dynamic Difficulty Adjustment (DDA)**: Implementing neural networks to adapt game difficulty dynamically based on player behavior.
+- 🧠 Machine Learning & Neural Networks projects
 - And other repositories listed below!
 
 ## 🛠️ Tech Stack
@@ -50,6 +50,17 @@ Check out my latest maps, builds, and resources on these platforms:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</p>
+
+### 🧠 Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 💻 Development & Design Tools
