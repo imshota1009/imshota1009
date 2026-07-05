@@ -11,11 +11,15 @@
 - 📫 How to reach me: shota.yamawaki@gmail.com
 - 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
 - 🔗 Portfolio (All Works): [nekodev-portfolio-site.web.app](https://nekodev-portfolio-site.web.app/)
-- 🌐 Connect with me:
+### 🌐 Connect with me
+
+<p>
   <a href="https://x.com/NekoDev1009" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@Chill_CatMoon" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/im._.shota1009/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://open.spotify.com/user/navdie4zsrucd60emt80xoo5a?si=d1f2effd57d24fce&nd=1&dlsi=b73d36ec9d6a4cf8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+</p>
+
 
 
 ## 🏆 Achievements
