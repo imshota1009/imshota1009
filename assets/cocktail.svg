@@ -55,6 +55,7 @@
 
   <!-- テキスト -->
   <text x="200" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="url(#neon-text)" text-anchor="middle" filter="url(#neon-glow)">CatMoon Bar</text>
-  <text x="200" y="340" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: 124 / 200 (62.0%)</text>
-  <text x="200" y="375" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ 124</text>
+  <text x="200" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-style="italic" fill="#ffb86c" text-anchor="middle" opacity="0.9">Today's Drink: Martini</text>
+  <text x="200" y="350" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: 124 / 200 (62.0%)</text>
+  <text x="200" y="380" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ 124</text>
 </svg>

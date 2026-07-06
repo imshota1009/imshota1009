@@ -41,6 +41,20 @@ async function main() {
     const target = 200;
     const ratio = Math.min(stars / target, 1.0);
     
+    // 星の数に応じたカクテル名（バーテンダーからの今日のおすすめ）
+    let cocktailName = "";
+    if (stars < 50) {
+        cocktailName = "Blue Hawaii";
+    } else if (stars < 100) {
+        cocktailName = "Tequila Sunrise";
+    } else if (stars < 150) {
+        cocktailName = "Martini";
+    } else if (stars < 200) {
+        cocktailName = "Cosmopolitan";
+    } else {
+        cocktailName = "CatMoon Special";
+    }
+    
     const yLiquid = 220.0 - (ratio * 100.0);
     const wLiquid = 20.0 + (ratio * 180.0);
     const xLeft = 200.0 - (wLiquid / 2.0);
@@ -112,8 +126,9 @@ async function main() {
 
   <!-- テキスト -->
   <text x="200" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="url(#neon-text)" text-anchor="middle" filter="url(#neon-glow)">CatMoon Bar</text>
-  <text x="200" y="340" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: ${stars} / ${target} (${percent.toFixed(1)}%)</text>
-  <text x="200" y="375" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ ${stars}</text>
+  <text x="200" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-style="italic" fill="#ffb86c" text-anchor="middle" opacity="0.9">Today's Drink: ${cocktailName}</text>
+  <text x="200" y="350" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: ${stars} / ${target} (${percent.toFixed(1)}%)</text>
+  <text x="200" y="380" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ ${stars}</text>
 </svg>`;
 
     const assetsDir = path.join(__dirname, '..', 'assets');

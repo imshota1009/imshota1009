@@ -4,6 +4,10 @@
 
 ![](./assets/catmoon_title.jpg)
 
+<div align="center">
+  <img src="assets/cocktail.svg" width="320" alt="CatMoon Cocktail" />
+</div>
+
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
@@ -72,10 +76,6 @@ Check out my latest maps, builds, and resources on these platforms:
 
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
-
-<div align="center">
-  <img src="assets/cocktail.svg" width="350" alt="CatMoon Cocktail" />
-</div>
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
