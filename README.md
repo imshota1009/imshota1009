@@ -5,9 +5,17 @@
 ![](./assets/catmoon_title.jpg)
 
 <div align="center">
-  <img src="assets/cocktail.svg" width="320" alt="CatMoon Cocktail" />
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="assets/cocktail.svg" width="300" alt="CatMoon Cocktail" />
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="assets/cat_bartender.svg" width="300" alt="Cat Bartender" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
