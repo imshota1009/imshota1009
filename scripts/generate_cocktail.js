@@ -102,7 +102,7 @@ async function main() {
   <path d="M 280 80 A 60 60 0 1 0 340 140 A 45 45 0 1 1 280 80 Z" fill="none" stroke="#ffb86c" stroke-width="4" filter="url(#neon-glow)" opacity="0.8" />
 
   <!-- カクテルの液体 -->
-  {liquidSvg}
+  ${liquidSvg}
 
   <!-- カクテルの泡（ゆらゆら昇るアニメーション） -->
   <g opacity="0.6">
