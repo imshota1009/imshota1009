@@ -55,6 +55,20 @@ async function main() {
         cocktailName = "CatMoon Special";
     }
     
+    // 星の数に応じた液体の色（確実に表示される単色ネオン）
+    let liquidColor = "#00f2fe"; 
+    if (stars < 50) {
+        liquidColor = "#50fa7b"; // グリーン
+    } else if (stars < 100) {
+        liquidColor = "#ffb86c"; // オレンジ
+    } else if (stars < 150) {
+        liquidColor = "#00f2fe"; // シアン
+    } else if (stars < 200) {
+        liquidColor = "#ff79c6"; // ピンク
+    } else {
+        liquidColor = "#bd93f9"; // パープル
+    }
+    
     const yLiquid = 220.0 - (ratio * 100.0);
     const wLiquid = 20.0 + (ratio * 180.0);
     const xLeft = 200.0 - (wLiquid / 2.0);
@@ -64,7 +78,7 @@ async function main() {
     
     let liquidSvg = '';
     if (ratio > 0) {
-        liquidSvg = `<polygon points="${polygonPoints}" fill="url(#cocktail-liquid)" opacity="0.85" />`;
+        liquidSvg = `<polygon points="${polygonPoints}" fill="${liquidColor}" opacity="0.8" />`;
     }
     
     const percent = ratio * 100.0;
@@ -79,19 +93,6 @@ async function main() {
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
-    <linearGradient id="neon-rim" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff79c6" />
-      <stop offset="100%" stop-color="#bd93f9" />
-    </linearGradient>
-    <linearGradient id="cocktail-liquid" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#00f2fe" />
-      <stop offset="50%" stop-color="#4facfe" />
-      <stop offset="100%" stop-color="#9d79ff" />
-    </linearGradient>
-    <linearGradient id="neon-text" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ffff" />
-      <stop offset="100%" stop-color="#9d79ff" />
-    </linearGradient>
   </defs>
 
   <!-- 背景 -->
@@ -120,13 +121,13 @@ async function main() {
   </g>
 
   <!-- カクテルグラスの本体 -->
-  <polygon points="100,120 300,120 210,220 210,290 250,290 250,300 150,300 150,290 190,290 190,220" fill="none" stroke="url(#neon-rim)" stroke-width="5" stroke-linejoin="round" filter="url(#neon-glow)" />
+  <polygon points="100,120 300,120 210,220 210,290 250,290 250,300 150,300 150,290 190,290 190,220" fill="none" stroke="#ff79c6" stroke-width="5" stroke-linejoin="round" filter="url(#neon-glow)" />
 
   <!-- カクテルの飾り（レモン） -->
   <path d="M 90 110 A 20 20 0 0 1 110 130" fill="none" stroke="#f1fa8c" stroke-width="4" filter="url(#neon-glow)" />
 
   <!-- テキスト -->
-  <text x="200" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="url(#neon-text)" text-anchor="middle" filter="url(#neon-glow)">CatMoon Bar</text>
+  <text x="200" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="#00ffff" text-anchor="middle" filter="url(#neon-glow)">CatMoon Bar</text>
   <text x="200" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-style="italic" fill="#ffb86c" text-anchor="middle" opacity="0.9">Today's Drink: ${cocktailName}</text>
   <text x="200" y="350" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: ${stars} / ${target} (${percent.toFixed(1)}%)</text>
   <text x="200" y="380" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ ${stars}</text>
