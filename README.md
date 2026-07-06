@@ -18,12 +18,15 @@
 </div>
 
 <div align="center">
-  <h3>🕒 CatMoon Bar 営業時間 (Opening Hours)</h3>
+  <h3>🕒 CatMoon Bar Opening Hours</h3>
   
-  *   **平日 (月〜金)**: 18:00 - 24:00 (夜型のバーテンダーです 🌃)
-  *   **休日 (土・日)**: 10:00 - 22:00 (いつでもお店にいます ☀️)
-  *   **定休日**: バグが全くない日 (※基本無休 🧪)
-  *   **ご注文 (ご連絡先)**: shota.yamawaki@gmail.com (または下のSNS看板からどうぞ 🚪)
+  **Weekdays (Mon - Fri)**: 18:00 - 24:00 (Night shift bartender 🌃)
+  <br>
+  **Weekends (Sat - Sun)**: 10:00 - 22:00 (Always at the bar ☀️)
+  <br>
+  **Closed**: When all bugs are resolved (Practically open every day 🧪)
+  <br>
+  **Orders (Contact)**: shota.yamawaki@gmail.com (Or check the SNS badges below 🚪)
 
 </div>
 
