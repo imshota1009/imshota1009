@@ -18,14 +18,12 @@
 </div>
 
 <div align="center">
-  <h3>📜 CatMoon Bar Menu (おすすめメニュー)</h3>
+  <h3>🕒 CatMoon Bar 営業時間 (Opening Hours)</h3>
   
-  | 🍹 メニュー名 | 🎨 特徴（カクテルの味） | 🔗 ご注文（リンク） |
-  | :--- | :--- | :--- |
-  | **TaviNote Special** | 旅の思い出を美味しく記録する、爽快なブルーハワイ風カクテル 🚀 | [Google Playで注文する](https://tavinote.web.app/) |
-  | **EcoNavi Mint Soda** | 日本大学ビジネスコンテストで評価された、知的で清涼感のある一杯 🍃 | [詳細をのぞく](https://nekodev-portfolio-site.web.app/) |
-  | **ねこつきの旅ソーダ** | チャンネル登録者1,000人突破を祝う、笑顔あふれる記念カクテル 🎉 | [YouTubeで視聴する](https://www.youtube.com/@Chill_CatMoon) |
-  | **Developer Devlog** | 日々の開発の情熱が詰まった、すこしビターな大人のカクテル 💻 | [開発日誌を読む](https://shota-devlog.web.app/) |
+  *   **平日 (月〜金)**: 18:00 - 24:00 (夜型のバーテンダーです 🌃)
+  *   **休日 (土・日)**: 10:00 - 22:00 (いつでもお店にいます ☀️)
+  *   **定休日**: バグが全くない日 (※基本無休 🧪)
+  *   **ご注文 (ご連絡先)**: shota.yamawaki@gmail.com (または下のSNS看板からどうぞ 🚪)
 
 </div>
 
