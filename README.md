@@ -26,20 +26,20 @@
 ## 🏆 Achievements
 - **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote Official Website](https://tavinote.web.app/)
 - **EcoNavi App** (Jan 2026): Selected as a finalist in the Nihon University Business Contest.
-- **ねこつきの旅日記 (YouTube)** (2023): Reached 1,000 subscribers 🎉 [YouTube Channel](https://www.youtube.com/@Chill_CatMoon)
+- **ねこつき�E旁E��訁E(YouTube)** (2023): Reached 1,000 subscribers 🎉 [YouTube Channel](https://www.youtube.com/@Chill_CatMoon)
   
 ## 💼 Marketplace / Sales
 Check out my latest maps, builds, and resources on these platforms:
 
 * **BuiltByBit**: [Visit My Store Profile](https://builtbybit.com/creators/catmoon.647372/)
     * 🏰 **Exclusive Builds:** Spawns, Hubs, and custom Maps.
-    * ⚙️ **Technical Resources:** Plugins, configurations, and assets.
+    * ⚙︁E**Technical Resources:** Plugins, configurations, and assets.
     * 💰 Sales Milestone: Reached $100 in total sales 🎉
 ## 🌱 Projects I'm Working On
 - 🧠 Machine Learning & Neural Networks projects
 - And other repositories listed below!
 
-## 🛠️ Tech Stack
+## 🛠�E�ETech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -72,6 +72,8 @@ Check out my latest maps, builds, and resources on these platforms:
 
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
+
+![](https://github-readme-stats.vercel.app/api?username=imshota1009&show_icons=true&theme=radial)
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
