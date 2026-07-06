@@ -256,6 +256,30 @@ async function main() {
 
     fs.writeFileSync(path.join(assetsDir, 'cat_bartender.svg'), catSvgTemplate, 'utf8');
     console.log(`Successfully generated assets/cat_bartender.svg (Level: ${levelTitle})`);
+
+    // 3. README.md の画像キャッシュ回避用パラメータを自動更新
+    const readmePath = path.join(__dirname, '..', 'README.md');
+    if (fs.existsSync(readmePath)) {
+        try {
+            let readmeContent = fs.readFileSync(readmePath, 'utf8');
+            const timestamp = Date.now();
+            
+            // assets/cocktail.svg?v=... および assets/cat_bartender.svg?v=... を置換
+            readmeContent = readmeContent.replace(
+                /(assets\/cocktail\.svg\?v=)[a-zA-Z0-9_]+/g,
+                `$1${timestamp}`
+            );
+            readmeContent = readmeContent.replace(
+                /(assets\/cat_bartender\.svg\?v=)[a-zA-Z0-9_]+/g,
+                `$1${timestamp}`
+            );
+            
+            fs.writeFileSync(readmePath, readmeContent, 'utf8');
+            console.log(`Successfully updated README.md image cache versions to ?v=${timestamp}`);
+        } catch (e) {
+            console.log(`Failed to update README.md cache versions: ${e}`);
+        }
+    }
 }
 
 main();
