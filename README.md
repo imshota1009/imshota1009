@@ -73,7 +73,7 @@ Check out my latest maps, builds, and resources on these platforms:
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
 
-![](https://github-readme-stats.vercel.app/api?username=imshota1009&show_icons=true&theme=radial)
+![](https://img.shields.io/badge/dynamic/json?color=yellow&label=GitHub%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fimshota1009&logo=github&style=flat-square)
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
