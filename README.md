@@ -17,6 +17,21 @@
   </table>
 </div>
 
+<div align="center">
+  <h3>📜 CatMoon Bar Menu (おすすめメニュー)</h3>
+  
+  | 🍹 メニュー名 | 🎨 特徴（カクテルの味） | 🔗 ご注文（リンク） |
+  | :--- | :--- | :--- |
+  | **TaviNote Special** | 旅の思い出を美味しく記録する、爽快なブルーハワイ風カクテル 🚀 | [Google Playで注文する](https://tavinote.web.app/) |
+  | **EcoNavi Mint Soda** | 日本大学ビジネスコンテストで評価された、知的で清涼感のある一杯 🍃 | [詳細をのぞく](https://nekodev-portfolio-site.web.app/) |
+  | **ねこつきの旅ソーダ** | チャンネル登録者1,000人突破を祝う、笑顔あふれる記念カクテル 🎉 | [YouTubeで視聴する](https://www.youtube.com/@Chill_CatMoon) |
+  | **Developer Devlog** | 日々の開発の情熱が詰まった、すこしビターな大人のカクテル 💻 | [開発日誌を読む](https://shota-devlog.web.app/) |
+
+</div>
+
+<br>
+
+
 ## 🚀 About Me
 - 💻 Full Stack Developer
 - 👯 Looking to collaborate on web projects
