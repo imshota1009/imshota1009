@@ -105,6 +105,9 @@ Check out my latest maps, builds, and resources on these platforms:
 
 ![](https://raw.githubusercontent.com/imshota1009/imshota1009/output/github-contribution-grid-snake.svg)
 
+
+https://github-profile-trophy.vercel.app/?username=imashota1009&column=-1
+
 　<img src="https://github-readme-activity-graph.vercel.app/graph?username=imshota1009&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto"><div align="center">
 
 <div align="center">
