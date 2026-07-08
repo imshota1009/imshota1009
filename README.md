@@ -100,7 +100,7 @@ Check out my latest maps, builds, and resources on these platforms:
 
 ## 🏅 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imshota1009&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=imshota1009&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
