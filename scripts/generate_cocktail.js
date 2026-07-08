@@ -301,4 +301,4 @@ async function main() {
     }
 }
 
-main();
+main().catch(e => { console.error('Fatal error:', e); process.exit(1); });
