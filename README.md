@@ -98,6 +98,14 @@ Check out my latest maps, builds, and resources on these platforms:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imshota1009&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ## 🌱 Learning 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
 

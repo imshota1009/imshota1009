@@ -2,23 +2,42 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
+const token = process.env.GITHUB_TOKEN || '';
+
 function getStarsCount() {
     return new Promise((resolve) => {
-        const url = 'https://api.github-star-counter.workers.dev/user/imshota1009';
-        https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
-            let data = '';
-            res.on('data', (chunk) => { data += chunk; });
-            res.on('end', () => {
-                try {
-                    const json = JSON.parse(data);
-                    resolve(parseInt(json.stars) || 124);
-                } catch (e) {
-                    resolve(fallbackStars());
+        let allRepos = [];
+
+        function fetchPage(page) {
+            const options = {
+                hostname: 'api.github.com',
+                path: `/users/imshota1009/repos?per_page=100&page=${page}&type=owner`,
+                headers: {
+                    'User-Agent': 'imshota1009-profile',
+                    'Accept': 'application/vnd.github.v3+json',
+                    ...(token ? { 'Authorization': `Bearer ${token}` } : {})
                 }
-            });
-        }).on('error', () => {
-            resolve(fallbackStars());
-        });
+            };
+            https.get(options, (res) => {
+                let data = '';
+                res.on('data', (chunk) => { data += chunk; });
+                res.on('end', () => {
+                    try {
+                        const repos = JSON.parse(data);
+                        if (!Array.isArray(repos)) { resolve(fallbackStars()); return; }
+                        allRepos = allRepos.concat(repos);
+                        if (repos.length === 100) {
+                            fetchPage(page + 1);
+                        } else {
+                            const total = allRepos.reduce((sum, r) => sum + (r.stargazers_count || 0), 0);
+                            resolve(total);
+                        }
+                    } catch (e) { resolve(fallbackStars()); }
+                });
+            }).on('error', () => { resolve(fallbackStars()); });
+        }
+
+        fetchPage(1);
     });
 }
 
