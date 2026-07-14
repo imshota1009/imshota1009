@@ -16,20 +16,20 @@
   <path d="M 280 80 A 60 60 0 1 0 340 140 A 45 45 0 1 1 280 80 Z" fill="none" stroke="#ffb86c" stroke-width="4" filter="url(#neon-glow)" opacity="0.8" />
 
   <!-- カクテルの液体 -->
-  <polygon points="132.4,156.0 267.6,156.0 210,220 190,220" fill="#00f2fe" opacity="0.8" />
+  <polygon points="131.9,155.5 268.1,155.5 210,220 190,220" fill="#00f2fe" opacity="0.8" />
 
   <!-- カクテルの泡（ゆらゆら昇るアニメーション） -->
   <g opacity="0.6">
     <circle cx="180" cy="200" r="3" fill="#ffffff">
-      <animate attributeName="cy" from="215" to="156.0" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="cy" from="215" to="155.5" dur="3s" repeatCount="indefinite" />
       <animate attributeName="opacity" from="1" to="0" dur="3s" repeatCount="indefinite" />
     </circle>
     <circle cx="210" cy="180" r="2" fill="#ffffff">
-      <animate attributeName="cy" from="215" to="156.0" dur="2.5s" repeatCount="indefinite" begin="0.8s" />
+      <animate attributeName="cy" from="215" to="155.5" dur="2.5s" repeatCount="indefinite" begin="0.8s" />
       <animate attributeName="opacity" from="1" to="0" dur="2.5s" repeatCount="indefinite" begin="0.8s" />
     </circle>
     <circle cx="195" cy="160" r="2.5" fill="#ffffff">
-      <animate attributeName="cy" from="215" to="156.0" dur="4s" repeatCount="indefinite" begin="1.5s" />
+      <animate attributeName="cy" from="215" to="155.5" dur="4s" repeatCount="indefinite" begin="1.5s" />
       <animate attributeName="opacity" from="1" to="0" dur="4s" repeatCount="indefinite" begin="1.5s" />
     </circle>
   </g>
@@ -43,6 +43,6 @@
   <!-- テキスト -->
   <text x="200" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="#00ffff" text-anchor="middle" filter="url(#neon-glow)">CatMoon Bar</text>
   <text x="200" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-style="italic" fill="#ffb86c" text-anchor="middle" opacity="0.9">Today's Drink: Martini</text>
-  <text x="200" y="350" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: 128 / 200 (64.0%)</text>
-  <text x="200" y="380" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ 128</text>
+  <text x="200" y="350" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ff79c6" text-anchor="middle">Total Stars: 129 / 200 (64.5%)</text>
+  <text x="200" y="380" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#50fa7b" text-anchor="middle" filter="url(#neon-glow)">★ 129</text>
 </svg>
