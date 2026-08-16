@@ -39,7 +39,7 @@
 - 🧠 Active in Machine Learning & neural networks
 - 📫 How to reach me: shota.yamawaki@gmail.com
 - 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
-- 🔗 Portfolio (All Works): [nekodev-portfolio-site.web.app](https://nekodev-portfolio-site.web.app/)
+
 ### 🌐 Connect with me
 
 <p>
