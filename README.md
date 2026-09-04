@@ -75,7 +75,7 @@
 </p>
 
 ## 🌱 Learning 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,python,java,typescript,c)
 
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=imshota1009)
 
