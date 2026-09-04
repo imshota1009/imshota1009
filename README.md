@@ -40,29 +40,6 @@
 - 📫 How to reach me: shota.yamawaki@gmail.com
 - 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
 
-### 🌐 Connect with me
-
-<p>
-  <a href="https://x.com/NekoDev1009" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.youtube.com/@Chill_CatMoon" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/im._.shota1009/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://open.spotify.com/user/navdie4zsrucd60emt80xoo5a?si=d1f2effd57d24fce&nd=1&dlsi=b73d36ec9d6a4cf8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
-</p>
-
-
-
-## 🏆 Achievements
-- **TaviNote App** (April 2026): Released on Google Play! 🚀 [TaviNote Official Website](https://tavinote.web.app/)
-- **EcoNavi App** (Jan 2026): Selected as a finalist in the Nihon University Business Contest.
-- **ねこつきの旅日記 (YouTube)** (2023): Reached 1,000 subscribers 🎉 [YouTube Channel](https://www.youtube.com/@Chill_CatMoon)
-  
-## 💼 Marketplace / Sales
-Check out my latest maps, builds, and resources on these platforms:
-
-* **BuiltByBit**: [Visit My Store Profile](https://builtbybit.com/creators/catmoon.647372/)
-    * 🏰 **Exclusive Builds:** Spawns, Hubs, and custom Maps.
-    * ⚙️ **Technical Resources:** Plugins, configurations, and assets.
-    * 💰 Sales Milestone: Reached $100 in total sales 🎉
 ## 🌱 Projects I'm Working On
 - 🧠 Machine Learning & Neural Networks projects
 - And other repositories listed below!
