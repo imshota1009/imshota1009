@@ -42,10 +42,10 @@
 
 ## 🏆 Hackathons & Business Contests
 
-| Event | Project | Result / Team |
-| --- | --- | --- |
-| **Nihon University Business Contest** | **EcoNavi**: a multilingual AI waste-sorting app for non-Japanese speakers | **Finalist** |
-| **SPAJAM 2026 Tokyo Preliminary** | [**Matcha Fullness**](https://github.com/imshota1009/matcha-fullness): a tea-ceremony ritual app for focus, built in two days | Team **Gonin Goshoku (五人五色)** |
+| Event | Project |
+| --- | --- |
+| **Nihon University Business Contest** | **EcoNavi**: a multilingual AI waste-sorting app for non-Japanese speakers |
+| **SPAJAM 2026 Tokyo Preliminary** | [**Matcha Fullness**](https://github.com/imshota1009/matcha-fullness): a tea-ceremony ritual app for focus, built in two days |
 
 ## 🌱 Projects I'm Working On
 - 🧠 Machine Learning & Neural Networks projects
