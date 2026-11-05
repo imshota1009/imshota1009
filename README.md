@@ -40,23 +40,6 @@
 - 📫 How to reach me: shota.yamawaki@gmail.com
 - 🔗 Portfolio (Apps): [shota-devlog.web.app](https://shota-devlog.web.app/)
 
-## 🍸 Today's Special: TaviNote
-
-<div align="center">
-
-### 🌳 TaviNote
-**A travel app where your tree grows every time you prepare for a trip.**
-<br>
-Plan, pack, and keep your memories in one place, then stamp your photos with a postmark of where you were.
-
-<br>
-
-<a href="https://apps.apple.com/jp/app/tavinote/id6777666008"><img src="https://img.shields.io/badge/App_Store-Download-9D79FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"></a>
-<a href="https://play.google.com/store/apps/details?id=com.imshota.tavinote"><img src="https://img.shields.io/badge/Google_Play-Download-9D79FF?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
-<a href="https://tavinote.web.app/"><img src="https://img.shields.io/badge/Website-tavinote.web.app-1F1B2E?style=for-the-badge&logo=firebase&logoColor=white" alt="TaviNote website"></a>
-
-</div>
-
 ## 🏆 Hackathons & Business Contests
 
 | Event | Project | Result / Team |
