@@ -8,10 +8,10 @@
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
-        <img src="assets/cocktail.svg?v=1794005190196" width="300" alt="CatMoon Cocktail" />
+        <img src="assets/cocktail.svg?v=1794027432586" width="300" alt="CatMoon Cocktail" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="assets/cat_bartender.svg?v=1794005190196" width="300" alt="Cat Bartender" />
+        <img src="assets/cat_bartender.svg?v=1794027432586" width="300" alt="Cat Bartender" />
       </td>
     </tr>
   </table>
