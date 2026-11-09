@@ -44,7 +44,7 @@
 
 | Event | Project |
 | --- | --- |
-| **Nihon University Business Contest** | **EcoNavi**: a multilingual AI waste-sorting app for non-Japanese speakers |
+| **Nihon University Business Contest Final Round** | [**EcoNavi**](https://github.com/imshota1009/Eco-Navi-App): a multilingual AI waste-sorting app for non-Japanese speakers |
 | **SPAJAM 2026 Tokyo Preliminary** | [**Matcha Fullness**](https://github.com/imshota1009/matcha-fullness): a tea-ceremony ritual app for focus, built in two days |
 
 ## 🌱 Projects I'm Working On
